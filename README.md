@@ -248,3 +248,8 @@ yarn add @base-org/account
   1. Fork this repo and clone it
   1. From the root dir run `yarn install`
   1. From the root dir run `yarn dev`
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans docs/fr/README.md. Elle couvre les deux visages du SDK (Base Pay/Base Subscriptions autonomes, et le provider EIP-1193 complet), le canal chiffre etabli avec la popup du wallet (handshake ECDH, chiffrement AES-GCM), la table de routage des methodes du Signer, et les sous-comptes avec leur financement.
